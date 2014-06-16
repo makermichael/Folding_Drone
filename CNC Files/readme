@@ -1,0 +1,10 @@
+CNC file explination: 
+
+These files were created using Vectric's Aspire. DXF and SVG files are also included.
+
+Milling / routing for the G10 was done using a 1/16 carbide "grout removal" bit from Dremel. 
+The aluminum arms were routed using a 1/8" straight bit.
+
+I found that the motor mounts should be doubled up - only one allows too much flex.
+
+Motor Mount Lower was later added to fruther reduce the flex of the motor mounts and to brace the lower part of the aluminum arm.
